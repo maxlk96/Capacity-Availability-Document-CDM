@@ -73,7 +73,13 @@ LIRN,15
 LIRP,10
 LIRQ,10
 #--- ESXX ---#
-ESSA,42
+ESSA,30
+ESGG,24
+ESMS,24
+ESSV,20
+ESKS,20
+ESNU,20
+ESNQ,15
 #--- LSXX ---#
 URL,https://cdm.vacc.ch/CAD.txt
 #--- LTXX ---#
